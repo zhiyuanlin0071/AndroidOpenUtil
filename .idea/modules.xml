@@ -3,7 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/AndroidOpenUtil.iml" filepath="$PROJECT_DIR$/AndroidOpenUtil.iml" />
-      <module fileurl="file://$PROJECT_DIR$/androidopenutiljar/androidopenutiljar.iml" filepath="$PROJECT_DIR$/androidopenutiljar/androidopenutiljar.iml" />
+      <module fileurl="file://$PROJECT_DIR$/androidopenutils/androidopenutils.iml" filepath="$PROJECT_DIR$/androidopenutils/androidopenutils.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>
